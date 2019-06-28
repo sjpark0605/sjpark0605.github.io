@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Se Jin Park"
-  avatar           : "/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing developer."
   location         : "London, UK"
   email            : "se.park.2018@ucl.ac.uk"
