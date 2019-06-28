@@ -106,11 +106,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Se Jin Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am an amazing developer."
+  location         : "London, UK"
+  email            : "se.park.2018@ucl.ac.uk"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
